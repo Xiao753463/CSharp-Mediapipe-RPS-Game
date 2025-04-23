@@ -1,0 +1,103 @@
+D:\user\Desktop\C#_final\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+D:\user\Desktop\C#_final\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+D:\user\Desktop\C#_final\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Form1.resources
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+D:\user\Desktop\C#_final\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Form1.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+d:\Users\Xiao\Downloads\C__mediapipe_winform\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+D:\user\Desktop\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+C:\Users\darmi\OneDrive\文件\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+D:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.dll
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.xml
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CopyComplete
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+d:\Users\Xiao\Downloads\C__mediapipe_winform_connect (3)\C__mediapipe_winform_connect\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.dll
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.xml
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_media.8A44ADDC.Up2Date
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
+D:\user\Downloads\C__mediapipe_winform_connect_0105\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.RecordForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe.config
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.exe
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\C#_mediapipe_winform.pdb
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.dll
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\bin\Debug\Newtonsoft.Json.xml
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.AssemblyReference.cache
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.RecordForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.SinglePlayerForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MultiPlayerForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.MainForm.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C__mediapipe_winform.Properties.Resources.resources
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.GenerateResource.cache
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.csproj.CoreCompileInputs.cache
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_media.8A44ADDC.Up2Date
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.exe
+D:\user\Downloads\C__mediapipe_winform_connect_Final\C__mediapipe_winform_connect_0105\C#_mediapipe_winform\obj\Debug\C#_mediapipe_winform.pdb
